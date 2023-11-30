@@ -1,8 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h3>changes for docker practice</h3>
     <h1>Registration Page</h1>
-    <p>Please fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
