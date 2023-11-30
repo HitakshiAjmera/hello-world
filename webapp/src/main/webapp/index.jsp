@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h3>changes 4</h3>
+    <h3>changes for docker practice</h3>
     <h1>Registration Page</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
@@ -32,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou changes 5, All The Best</h1>
+   <h1> Thankyou</h1>
 
   
 </form>
